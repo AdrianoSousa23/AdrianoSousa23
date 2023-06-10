@@ -2,6 +2,7 @@
 
         Atualmente focado nos estudos em Html, Css, Js, React, Java Poo, e SQL, e fazendo alguns projetos em html e css.
         Aprimorando meus conhecimentos nas respectivas linguagens pela Alura.
+        Em busca do primeiro estágio com T.I.
     📫  Contatos - Email: adrianosousa18@outlook.com / Linkedin: https://www.linkedin.com/in/adriano-sousa-ads/
     
   <div style="display: inline_block"><br>
