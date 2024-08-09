@@ -32,11 +32,11 @@
 <br>
 
 ## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Ecommerce-PI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Ecommerce-PI)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Ecommerce-PI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/PrimeTech)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Controle-de-Abastecimento)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Atentimento_hospital&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Atentimento_hospital)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Dio_Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Dio_Pokedex)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Dio_Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/RentEv)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Lista_jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Lista_jogos)
 
     
