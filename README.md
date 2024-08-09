@@ -34,12 +34,13 @@
 ## Principais Projetos
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Ecommerce-PI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/PrimeTech)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Controle-de-Abastecimento)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Controle-de-Abastecimento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Controle-de-Abastecimento)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Atentimento_hospital&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Atentimento_hospital)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Dio_Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/RentEv)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=RentEv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/RentEv)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Lista_jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Lista_jogos)
 
     
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/AdrianoSousa23/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Ecommerce-PI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/PrimeTech)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrianoSousa23&repo=Controle-de-Abastecimento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AdrianoSousa23/Controle-de-Abastecimento)
