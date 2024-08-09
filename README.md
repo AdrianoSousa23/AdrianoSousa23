@@ -1,8 +1,8 @@
 <div>
     <h1>Olá!!! Me chamo Adriano. 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
-    <p>Me chamo Adriano Sousa. Uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programaçãoe é pelo mundo do hardware.</p>
-    <p>Estudande de analise e desenvolvimentno de sistemas atualemnte 4º semestre.</p>
+    <p>Me chamo Adriano Sousa. desenvolvedor back-end em com foco em Java, uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programação é pelo mundo do hardware.</p>
+    <p>Estudande de analise e desenvolvimentno de sistemas atualemnte 5º semestre.</p>
     <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
     </p>
 </div>
@@ -18,13 +18,17 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
- <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Adriano-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Adriano-spring" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" />
   <img align="center" alt="Adriano-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Adriano-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  
+  
           
 
 </div>
